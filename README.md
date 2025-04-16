@@ -1,8 +1,8 @@
-Personal website: https://moritzw.com
+Personal website: [moritzw.com](https://moritzw.com)
 
 Projects I built that are not listed here:
-- https://remnote.com (built large parts of the frontend)
-- https://www.getquest.co (completed ios app)
-- https://quotefinder.co (customers)
-- [Age motivation Chrome Extension](https://chromewebstore.google.com/detail/age-motivation/febbcejjonlekadhjeldcljckdibjobk/reviews) (users)
-- https://deeptable.app (tbd)
+- [RemNote](https://remnote.com) (built large parts of the frontend)
+- [Quest](https://www.getquest.co) (completed iOS app)
+- [QuoteFinder](https://quotefinder.co) (customers)
+- [Age Motivation](https://chromewebstore.google.com/detail/age-motivation/febbcejjonlekadhjeldcljckdibjobk/reviews) (Chrome Extension with active users)
+- [DeepTable](https://deeptable.app) (tbd)
