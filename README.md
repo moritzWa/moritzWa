@@ -8,3 +8,20 @@ Projects I built that are not listed here:
 - [Age Motivation](https://chromewebstore.google.com/detail/age-motivation/febbcejjonlekadhjeldcljckdibjobk/reviews) (Chrome Extension with active users)
 - [DeepTable](https://deeptable.app) clay.com but for anything
 - [Cronus](https://cronushq.com) smart screen time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+test
