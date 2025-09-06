@@ -1,7 +1,7 @@
 
 Personal website: [moritzw.com](https://moritzw.com)
 
-- [**Cronus AI**](https://cronushq.com/) - Smart Screen Time macOS, full-stack Electron app w/ Objective-C for native macOS API integration
+- [**Cronus AI**](https://cronushq.com/) - Smart Screen Time macOS, full-stack Electron app w/ Objective-C for native macOS API integration ([repo]([url](https://github.com/moritzWa/cronus)))
 - [**RemNote**](http://remnote.com) - Co-founder, full-stack development, hired 15 people, scaled to 2M+ users (profitable), [funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote)
 - [**BenchFlow**](http://benchflow.ai/) - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others
 - [**DeepTable**](https://deeptable.app/) - Clay.com for anything - full-stack implementation ([github repo](https://github.com/moritzWa/deeptable))
@@ -13,6 +13,7 @@ Personal website: [moritzw.com](https://moritzw.com)
 <summary>Other Projects</summary>
   
 2025
+- [**DemandFlow AI**](https://www.demandflow-ai.com/) - Human-level ai-content content at scale (WIP)
 - [**Pandora AI**](https://www.pandoraexperts.com/) - Autonomous expert network for better PE/M&A dd, 1-week sprint
 - [**Sage Care**](https://sagecoaches.com) - AI health coaching platform research and customer discovery
 - **YouOnASticker.com** - Custom sticker creation micro SaaS (incl. fb ads optimization)
