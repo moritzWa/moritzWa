@@ -13,11 +13,12 @@ Personal website: [moritzw.com](https://moritzw.com)
 <summary>Other Projects</summary>
   
 2025
+- **GitHub Graph Scraper** - Developer recruitment tool ([repo](https://github.com/moritzWa/github-scraper-scripts))
+- **BugDetectionBench** — Benchmark dataset for bug detection models ([repo](https://github.com/moritzWa/BugDetectionBench))
 - [**DemandFlow AI**](https://www.demandflow-ai.com/) - Human-level ai-content content at scale (WIP)
 - [**Pandora AI**](https://www.pandoraexperts.com/) - Autonomous expert network for better PE/M&A dd, 1-week sprint
 - [**Sage Care**](https://sagecoaches.com) - AI health coaching platform research and customer discovery
 - **YouOnASticker.com** - Custom sticker creation micro SaaS (incl. fb ads optimization)
-- **GitHub Graph Scraper** - Developer recruitment tool ([repo](https://github.com/moritzWa/github-scraper-scripts))
 
 2024
 - [**Procio**](https://www.procio.ai/) - Autonomous procurement for critical industries (customer discovery incl. w [Navy supplier](https://advancedacousticconcepts.com))
