@@ -14,7 +14,7 @@ Personal website: [moritzw.com](https://moritzw.com)
   
 2025
 - **GitHub Graph Scraper** - Developer recruitment tool ([repo](https://github.com/moritzWa/github-scraper-scripts))
-- **BugDetectionBench** — Benchmark dataset for bug detection models ([repo](https://github.com/moritzWa/BugDetectionBench))
+- **BugDetectionBench** - Benchmark dataset for bug detection models ([repo](https://github.com/moritzWa/BugDetectionBench))
 - [**DemandFlow AI**](https://www.demandflow-ai.com/) - Human-level ai-content content at scale (WIP)
 - [**Pandora AI**](https://www.pandoraexperts.com/) - Autonomous expert network for better PE/M&A dd, 1-week sprint
 - [**Sage Care**](https://sagecoaches.com) - AI health coaching platform research and customer discovery
