@@ -13,8 +13,10 @@ Personal website: [moritzw.com](https://moritzw.com)
 <summary>Other Projects</summary>
   
 2025
+- **[Company SEO Analysis](https://github.com/moritzWa/company-seo-analysis)** - Using browser-use/base for complex data enrichment
 - **[GitHub Graph Scraper](https://github.com/moritzWa/github-scraper-scripts)** - Developer recruitment tool
 - **[BugDetectionBench](https://github.com/moritzWa/BugDetectionBench)** - Benchmark scraper and dataset for ai code review bots
+- 
 - [**DemandFlow AI**](https://www.demandflow-ai.com/) - Human-level ai-content content at scale (WIP)
 - [**Pandora AI**](https://www.pandoraexperts.com/) - Autonomous expert network for better PE/M&A dd, 1-week sprint
 - [**Sage Care**](https://sagecoaches.com) - AI health coaching platform research and customer discovery
