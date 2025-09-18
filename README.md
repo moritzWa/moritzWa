@@ -5,7 +5,7 @@ Personal website: [moritzw.com](https://moritzw.com)
 - [**RemNote**](http://remnote.com) - Co-founder, full-stack development, hired 15 people, scaled to 2M+ users, profitable, ([funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote))
 - [**BenchFlow**](http://benchflow.ai/) - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others to build HuggingFace for evals
 - [**DeepTable**](https://deeptable.app/) - Clay.com for anything - full-stack implementation ([github repo](https://github.com/moritzWa/deeptable))
-- [**Quest**](https://www.getquest.co/) - Social reading/listening app w/ ai recommendation engine, [pitch-deck](https://pitch.com/v/quest-rci4ih), full-stack mobile app
+- [**Quest**](https://www.getquest.co/) - Social reading/listening app w/ ai recommendation engine, full-stack mobile app, ([repo](https://github.com/moritzWa/pickup), [pitch-deck](https://pitch.com/v/quest-rci4ih))
 - [**QuoteFinder**](https://quotefinder.co/) - Micro SaaS that grew to 4,641 sign-ups ([github repo](https://github.com/moritzWa/ai-quote-finder))
 
 <details>
