@@ -1,7 +1,7 @@
 
 Personal website: [moritzw.com](https://moritzw.com)
 
-- [**Cronus AI**](https://cronushq.com/) - Smart Screen Time macOS, full-stack Electron app w/ Objective-C for native macOS API integration ([repo]([url](https://github.com/moritzWa/cronus)))
+- [**Cronus AI**](https://cronushq.com/) - Smart Screen Time macOS, full-stack Electron app w/ Objective-C for native macOS API integration ([github repo](https://github.com/moritzWa/cronus))
 - [**RemNote**](http://remnote.com) - Co-founder, full-stack development, hired 15 people, scaled to 2M+ users (profitable), [funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote)
 - [**BenchFlow**](http://benchflow.ai/) - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others
 - [**DeepTable**](https://deeptable.app/) - Clay.com for anything - full-stack implementation ([github repo](https://github.com/moritzWa/deeptable))
