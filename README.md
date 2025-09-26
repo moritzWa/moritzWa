@@ -13,9 +13,10 @@ Personal website: [moritzw.com](https://moritzw.com)
 <summary>Other Projects</summary>
   
 2025
-- [**RapidAnswer**](https://github.com/moritzWa/RapidAnswer) - ChatGPT voice mode on steroids, powered by Groq, Exa, and DeepGram ([github repo](https://github.com/moritzWa/RapidAnswer))
+- [**RapidAnswer**](https://github.com/moritzWa/RapidAnswer) - ChatGPT voice mode on steroids, powered by Groq, Exa, and DeepGram
+- [**FixSpellingShortcut**](https://github.com/moritzWa/FixSpellingShortcut) - macOS AI typo correction using Groq
 - **[Company SEO Analysis](https://github.com/moritzWa/company-seo-analysis)** - Using browser-use/base for complex data enrichment
-- **[GitHub Graph Scraper](https://github.com/moritzWa/github-scraper-scripts)** - Developer recruitment tool
+- **[GitHub Graph Scraper](https://github.com/moritzWa/github-scraper-scripts)** - Explore the social graph of the most cracked engineers
 - **[BugDetectionBench](https://github.com/moritzWa/BugDetectionBench)** - Benchmark scraper and dataset for ai code review bots
 - [**DemandFlow AI**](https://www.demandflow-ai.com/) - Human-level ai-content content at scale (WIP)
 - [**Pandora AI**](https://www.pandoraexperts.com/) - Autonomous expert network for better PE/M&A dd, 1-week sprint
