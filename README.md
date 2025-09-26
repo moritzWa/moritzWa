@@ -13,6 +13,7 @@ Personal website: [moritzw.com](https://moritzw.com)
 <summary>Other Projects</summary>
   
 2025
+- [**RapidAnswer**](https://github.com/moritzWa/RapidAnswer) - ChatGPT voice mode on steroids, powered by Groq, Exa, and DeepGram ([github repo](https://github.com/moritzWa/RapidAnswer))
 - **[Company SEO Analysis](https://github.com/moritzWa/company-seo-analysis)** - Using browser-use/base for complex data enrichment
 - **[GitHub Graph Scraper](https://github.com/moritzWa/github-scraper-scripts)** - Developer recruitment tool
 - **[BugDetectionBench](https://github.com/moritzWa/BugDetectionBench)** - Benchmark scraper and dataset for ai code review bots
