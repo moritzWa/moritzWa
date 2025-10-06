@@ -15,6 +15,7 @@ Personal website: [moritzw.com](https://moritzw.com)
   
 2025
 - [**RapidAnswer**](https://github.com/moritzWa/RapidAnswer) - ChatGPT voice mode on steroids, powered by Groq, Exa, and DeepGram
+- [**Free Whisper Flow**](https://github.com/moritzWa/free-whisper-flow) - Type faster using your voice (Whisper Flow, Aqua Voice, Willow Voice clone)
 - [**FixSpellingShortcut**](https://github.com/moritzWa/FixSpellingShortcut) - macOS AI typo correction using Groq
 - **[Company SEO Analysis](https://github.com/moritzWa/CompanySEOAnalysis)** - Using browser-use/base for complex data enrichment
 - **[GitHub Graph Scraper](https://github.com/moritzWa/github-scraper-scripts)** - Explore the social graph of the most cracked engineers
