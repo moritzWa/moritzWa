@@ -7,6 +7,7 @@ Personal website: [moritzw.com](https://moritzw.com)
 - [**DeepTable**](https://deeptable.app/) - Clay.com for anything - full-stack implementation ([github repo](https://github.com/moritzWa/deeptable))
 - [**Quest**](https://www.getquest.co/) - Social reading/listening app w/ ai recommendation engine, full-stack mobile app, ([repo](https://github.com/moritzWa/pickup), [pitch-deck](https://pitch.com/v/quest-rci4ih))
 - [**QuoteFinder**](https://quotefinder.co/) - Micro SaaS that grew to 4,641 sign-ups ([github repo](https://github.com/moritzWa/ai-quote-finder))
+- Technical Writing: [Introduction to vLLM and PagedAttention](https://www.runpod.io/blog/introduction-to-vllm-and-pagedattention), [RAG Research: 2017-2024 (32+ Paper Summaries)](https://scalingknowledge.substack.com/p/rag)
 
 <details>
   
