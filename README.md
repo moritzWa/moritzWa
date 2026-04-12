@@ -13,6 +13,9 @@ Personal website: [moritzw.com](https://moritzw.com)
   
 <summary>Other Projects</summary>
   
+2026
+- [**Personal CRM**](https://github.com/moritzWa/personal-crm-public) - Local-first AI contact manager with 15+ import sources (iMessage, WhatsApp, LinkedIn, X, Instagram, Google Calendar, etc.)
+
 2025
 - [**RapidAnswer**](https://github.com/moritzWa/RapidAnswer) - ChatGPT voice mode on steroids, powered by Groq, Exa, and DeepGram
 - [**Free Whisper Flow**](https://github.com/moritzWa/free-whisper-flow) - Type faster using your voice (Whisper Flow, Aqua Voice, Willow Voice clone)
