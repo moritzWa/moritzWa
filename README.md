@@ -1,6 +1,4 @@
-Personal website: [moritzw.com](https://moritzw.com)
-
-Product-minded engineer and repeat founder. I build AI and collaboration products end to end, from discovery to production.
+Product-minded engineer and repeat founder. I build AI and collaboration products end to end, from discovery to production. [moritzw.com](https://moritzw.com)
 
 ### Experience
 
