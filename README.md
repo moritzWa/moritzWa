@@ -1,8 +1,23 @@
 Personal website: [moritzw.com](https://moritzw.com)
 
+Product-minded engineer and repeat founder. I build AI and collaboration products end to end, from discovery to production.
+
+### Experience
+
+- **[Arca](https://www.arca.inc/)** (contract) - legal AI. Built the Word add-in's AI document actions (edit, comment, format, redline) and made batched redline apply ~29x faster on large contracts; real-time docx co-editing (Yjs/Liveblocks); artifacts browser (search, filters, previews); email agent (reply-all threading, onboarding, local debug harness)
+- **[Rogo](https://rogo.ai)** - AI analyst for investment banks and PE firms (Thrive/Sequoia-backed)
+  - Designed and built **Projects**, Rogo's deal-workspace feature, solo and full stack in my first month; shipped to 40,000+ enterprise users at bulge-bracket banks
+  - Built real-time collaborative **Notes** from scratch (Yjs/Hocuspocus CRDT backend, live presence, per-user AI edits); added a direct file-edit agent tool that cut average AI edit time from ~15s to ~5s
+  - Implemented **sharing and RBAC permissions** across projects, chats, and skills
+  - Extended the **Felix email agent** (HTML replies, secure attachment ingestion, delivery observability); halved per-thread token cost
+  - Improved Rogo's internal **AI coding agent** (memory system, native Slack streaming of progress/thinking traces, QA guardrails)
+- **[RemNote](http://remnote.com)** - Co-founder, full-stack development, hired 15 people, scaled to 3M+ users, profitable ([funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote))
+- **[BenchFlow](http://benchflow.ai/)** - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others to build HuggingFace for evals
+
+### Notable Projects
+
+- [**voizecode**](https://github.com/moritzWa/voizecode) - ChatGPT voice mode for coding agents - talk to your coding agent on a walk
 - [**Cronus AI**](https://cronushq.com/) - Smart Screen Time macOS, full-stack Electron app w/ Objective-C for native macOS API integration ([github repo](https://github.com/moritzWa/cronus))
-- [**RemNote**](http://remnote.com) - Co-founder, full-stack development, hired 15 people, scaled to 2M+ users, profitable, ([funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote))
-- [**BenchFlow**](http://benchflow.ai/) - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others to build HuggingFace for evals
 - [**Athens**](https://tryathens.com) - Cursor for writing - markdown-based WYSIWYG editor with AI suggestions, collaboration, and Google Docs import
 - [**DeepTable**](https://deeptable.app/) - Clay.com for anything - full-stack implementation ([github repo](https://github.com/moritzWa/deeptable))
 - [**Quest**](https://quest-coral-beta.vercel.app/) - Social reading/listening app w/ ai recommendation engine, full-stack mobile app, ([repo](https://github.com/moritzWa/pickup), [pitch-deck](https://pitch.com/v/quest-rci4ih))
