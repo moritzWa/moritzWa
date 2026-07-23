@@ -1,7 +1,6 @@
-Product-minded engineer and repeat founder. I build AI and collaboration products end to end, from discovery to production. [moritzw.com](https://moritzw.com)
+Product engineer + founder. I build AI and collaboration products end to end, from discovery to production. [moritzw.com](https://moritzw.com)
 
 **Experience**
-
 - **[Arca](https://www.arca.inc/)** (contract) - legal AI. Word add-in AI doc actions (edit, comment, redline; batched apply ~29x faster on large contracts), real-time docx co-editing (Yjs/Liveblocks), artifacts browser
 - **[Rogo](https://rogo.ai)** - AI analyst for banks and PE firms (Thrive/Sequoia-backed)
   - Built **Projects**, Rogo's deal-workspace feature (solo, full stack, first month) - shipped to 40k+ enterprise users at bulge-bracket banks
@@ -11,7 +10,6 @@ Product-minded engineer and repeat founder. I build AI and collaboration product
 - **[BenchFlow](http://benchflow.ai/)** - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others to build HuggingFace for evals
 
 **Notable Projects**
-
 - [**voizecode**](https://github.com/moritzWa/voizecode) - ChatGPT voice mode for coding agents - talk to your coding agent on a walk
 - [**Cronus AI**](https://cronushq.com/) - Smart Screen Time macOS, full-stack Electron app w/ Objective-C for native macOS API integration ([github repo](https://github.com/moritzWa/cronus))
 - [**Athens**](https://tryathens.com) - Cursor for writing - markdown-based WYSIWYG editor with AI suggestions, collaboration, and Google Docs import
