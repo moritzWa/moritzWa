@@ -11,7 +11,7 @@ Product-minded engineer and repeat founder. I build AI and collaboration product
   - Implemented **sharing and RBAC permissions** across projects, chats, and skills
   - Extended the **Felix email agent** (HTML replies, secure attachment ingestion, delivery observability); halved per-thread token cost
   - Improved Rogo's internal **AI coding agent** (memory system, native Slack streaming of progress/thinking traces, QA guardrails)
-- **[RemNote](http://remnote.com)** - Co-founder, full-stack development, hired 15 people, scaled to 3M+ users, profitable ([funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote))
+- **[RemNote](http://remnote.com)** - Co-founder, full-stack development, hired 15 people, scaled to millions of users ([funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote))
 - **[BenchFlow](http://benchflow.ai/)** - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others to build HuggingFace for evals
 
 ### Notable Projects
@@ -29,6 +29,7 @@ Product-minded engineer and repeat founder. I build AI and collaboration product
 <summary>Other Projects</summary>
   
 2026
+- [**AI Apartment Finder**](https://github.com/moritzWa/ai-apartment-finder) - Scrapes Craigslist, Facebook Marketplace, and StreetEasy on a cron, scores listings 0-10 with an LLM, and texts you the good ones. Serverless, runs on GitHub Actions
 - [**Orbit**](https://github.com/moritzWa/orbit) - Local-first personal relationship manager with 15+ auto-import sources, designed for AI coding agents
 
 2025
