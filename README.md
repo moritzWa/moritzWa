@@ -21,7 +21,7 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 <summary>Other Projects</summary>
   
 2026
-- [**Focus Shield**](https://chromewebstore.google.com/detail/focus-shield-ai-site-dist/ibmmihgadnkilmknmfmohlclogcifboj) - Site blocker with an AI bouncer: type *why* you want the distracting site, get time-boxed access or a saved reminder, auto-reblocks when it expires ([github repo](https://github.com/moritzWa/smart-blocker))
+- [**Focus Shield**](https://chromewebstore.google.com/detail/focus-shield-ai-site-dist/ibmmihgadnkilmknmfmohlclogcifboj) - Site blocker with an AI bouncer: type *why* you want the distracting site, get time-boxed access or a saved reminder, auto-reblocks when it expires ([github repo](https://github.com/moritzWa/focus-shield))
 - [**AI Apartment Finder**](https://github.com/moritzWa/ai-apartment-finder) - Scrapes Craigslist, Facebook Marketplace, and StreetEasy on a cron, scores listings 0-10 with an LLM, and texts you the good ones. Serverless, runs on GitHub Actions
 - [**Orbit**](https://github.com/moritzWa/orbit) - Local-first personal relationship manager with 15+ auto-import sources, designed for AI coding agents
 - [**Free Whisper Flow**](https://github.com/moritzWa/free-whisper-flow) - Type faster using your voice (Whisper Flow, Aqua Voice, Willow Voice clone)
