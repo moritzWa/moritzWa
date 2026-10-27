@@ -28,13 +28,14 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 
 **[RemNote](http://remnote.com)** - Co-founder, full-stack development, hired 15 people, scaled to millions of users ([funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote))
 
+**[Cronus](https://cronushq.com)** - AI screen time app I use every day: cross-platform time tracking and distraction blocking. Fine-tuned a 0.8B on-device model for activity categorization that matches our cloud model and beats Apple's built-in one (89% vs 64% agreement)
+
 **[BenchFlow](http://benchflow.ai/)** - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others to build HuggingFace for evals
 
 <details>
 
 <summary>Notable Projects</summary>
 
-- [**Cronus**](https://cronushq.com) - AI screen time app: automatic time tracking across macOS, Windows and Linux, AI categorization, real-time distraction blocking
 - [**voizecode**](https://github.com/moritzWa/voizecode) - ChatGPT voice mode for coding agents - talk to your coding agent on a walk
 - [**Athens**](https://tryathens.com) - Cursor for writing - markdown-based WYSIWYG editor with AI suggestions, collaboration, and Google Docs import
 - [**DeepTable**](https://deeptable.app/) - Clay.com for anything - full-stack implementation ([github repo](https://github.com/moritzWa/deeptable))
