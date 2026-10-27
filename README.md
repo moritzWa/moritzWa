@@ -3,10 +3,11 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 **Experience**
 - **[Arca](https://www.arca.inc/)** - AI for life-sciences regulatory affairs. Merged 300+ PRs in October alone
 - **[Rogo](https://rogo.ai)** - AI analyst for banks and PE firms (Thrive/Sequoia-backed). Built Projects (40k+ enterprise users), real-time collaborative Notes, sharing/RBAC, an email agent
+  - Built **Projects**, Rogo's deal-workspace feature (solo, full stack, first month) - shipped to 40k+ enterprise users at bulge-bracket banks
+  - Built real-time collaborative **Notes** from scratch (Yjs/Hocuspocus CRDT, presence, per-user AI edits + a file-edit agent tool, ~15s→5s)
+  - **Sharing/RBAC** across projects, chats, skills; **Felix email agent** (secure ingestion, observability, halved token cost); internal **AI coding agent** (memory, Slack streaming, guardrails)
 - **[RemNote](http://remnote.com)** - Co-founder, full-stack development, hired 15 people, scaled to millions of users ([funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote))
 - **[BenchFlow](http://benchflow.ai/)** - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others to build HuggingFace for evals
-- **[Tutor.com](https://www.tutor.com)** - Full-stack engineering on the platform
-
 <details>
 
 <summary>What I built at Arca</summary>
@@ -18,16 +19,6 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 - **Regulatory data**: search across public regulatory sources and papers, plus dossier (eCTD) imports
 - **Where users work**: Word add-in (AI redlines, real-time co-editing), Outlook, email agent, ChatGPT plugin
 - **[Reg Affairs Bench](https://huggingface.co/datasets/arca-inc/reg-affairs-bench)**: expert-written benchmark for regulatory AI, graded by an LLM jury
-
-</details>
-
-<details>
-
-<summary>What I built at Rogo</summary>
-
-- Built **Projects**, Rogo's deal-workspace feature (solo, full stack, first month) - shipped to 40k+ enterprise users at bulge-bracket banks
-- Built real-time collaborative **Notes** from scratch (Yjs/Hocuspocus CRDT, presence, per-user AI edits + a file-edit agent tool, ~15s→5s)
-- **Sharing/RBAC** across projects, chats, skills; **Felix email agent** (secure ingestion, observability, halved token cost); internal **AI coding agent** (memory, Slack streaming, guardrails)
 
 </details>
 
@@ -48,6 +39,7 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 <summary>Other Projects</summary>
   
 2026
+- [**Understand**](https://understandtutor.com) - A voice tutor you can interrupt: explains any topic, reads articles aloud, and remembers what you actually understood
 - [**Focus Shield**](https://chromewebstore.google.com/detail/focus-shield-ai-site-dist/ibmmihgadnkilmknmfmohlclogcifboj) - Site blocker with an AI bouncer: type *why* you want the distracting site, get time-boxed access or a saved reminder, auto-reblocks when it expires ([github repo](https://github.com/moritzWa/focus-shield))
 - [**AI Apartment Finder**](https://github.com/moritzWa/ai-apartment-finder) - Scrapes Craigslist, Facebook Marketplace, and StreetEasy on a cron, scores listings 0-10 with an LLM, and texts you the good ones. Serverless, runs on GitHub Actions
 - [**Agent Bouncer**](https://github.com/moritzWa/agent-bouncer) - A bouncer for your CPU and RAM: a first-come-first-served queue for heavy jobs, built for many parallel coding agents
