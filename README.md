@@ -48,18 +48,17 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 <summary>Other Projects</summary>
   
 2026
-- [**Understand**](https://understandtutor.com) - A voice tutor you can interrupt: explains any topic, reads articles aloud, and remembers what you actually understood
-- [**Focus Shield**](https://chromewebstore.google.com/detail/focus-shield-ai-site-dist/ibmmihgadnkilmknmfmohlclogcifboj) - Site blocker with an AI bouncer: type *why* you want the distracting site, get time-boxed access or a saved reminder, auto-reblocks when it expires ([github repo](https://github.com/moritzWa/focus-shield))
-- [**AI Apartment Finder**](https://github.com/moritzWa/ai-apartment-finder) - Scrapes Craigslist, Facebook Marketplace, and StreetEasy on a cron, scores listings 0-10 with an LLM, and texts you the good ones. Serverless, runs on GitHub Actions
 - [**Agent Bouncer**](https://github.com/moritzWa/agent-bouncer) - A bouncer for your CPU and RAM: a first-come-first-served queue for heavy jobs, built for many parallel coding agents
 - [**agentview**](https://github.com/moritzWa/agentview) - All your coding agents in one terminal: Claude Code, Codex, OpenCode, Cursor and more
 - [**Cubicle**](https://github.com/moritzWa/cubicle) - A persistent, authenticated computer for your coding agent, over MCP
-- [**OpenCode Read Aloud**](https://github.com/moritzWa/opencode-read-aloud) - OpenCode plugin that reads the last answer aloud (Speechify or ElevenLabs), highlighting each word as it is spoken
+- [**Understand**](https://understandtutor.com) - A voice tutor you can interrupt: explains any topic, reads articles aloud, and remembers what you actually understood
 - [**Orbit**](https://github.com/moritzWa/orbit) - Local-first personal relationship manager with 15+ auto-import sources, designed for AI coding agents
+- [**OpenCode Read Aloud**](https://github.com/moritzWa/opencode-read-aloud) - OpenCode plugin that reads the last answer aloud (Speechify or ElevenLabs), highlighting each word as it is spoken
 - [**AI Interview Index**](https://github.com/moritzWa/ai-interview-index) - Which companies allow AI in coding interviews, which ban it, and which built the interview around it
-- [**Free Whisper Flow**](https://github.com/moritzWa/free-whisper-flow) - Type faster using your voice (Whisper Flow, Aqua Voice, Willow Voice clone)
 
 2025
+- [**Free Whisper Flow**](https://github.com/moritzWa/free-whisper-flow) - Type faster using your voice (Whisper Flow, Aqua Voice, Willow Voice clone)
+- [**Focus Shield**](https://chromewebstore.google.com/detail/focus-shield-ai-site-dist/ibmmihgadnkilmknmfmohlclogcifboj) - Site blocker with an AI bouncer: type *why* you want the distracting site, get time-boxed access or a saved reminder, auto-reblocks when it expires ([github repo](https://github.com/moritzWa/focus-shield))
 - [**RapidAnswer**](https://github.com/moritzWa/RapidAnswer) - ChatGPT voice mode on steroids, powered by Groq, Exa, and DeepGram
 - [**Fix Spelling Shortcut**](https://github.com/moritzWa/FixSpellingShortcut) - macOS AI typo correction using Groq
 - **[Company SEO Analysis](https://github.com/moritzWa/CompanySEOAnalysis)** - Using browser-use/base for complex data enrichment
