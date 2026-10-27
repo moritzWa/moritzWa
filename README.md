@@ -1,28 +1,35 @@
 Product engineer + founder. I build AI and collaboration products end to end, from discovery to production. [moritzw.com](https://moritzw.com)
 
 **Experience**
-- **[Arca](https://www.arca.inc/)** - AI for regulated work (now life-sciences regulatory affairs). 300+ PRs merged in October alone. The bigger pieces:
-  - **Enterprise connectors**: SharePoint, Drive, Outlook and Box with IT-scoped access (approved sites and mailboxes only), Okta/SCIM directory sync with preview and mass-removal holds, admin-locked AI tool permissions, and vendor-hosted MCP servers (Notion, Jira, Box, Attio, Grain)
-  - **Grid**: a spreadsheet where every cell is answered by an agent reading documents. Paper-search grids (rerank top 100 results), screening columns, PRISMA 2020 flow diagrams
-  - **Live dashboards from chat**: generated, sandboxed, shareable, with live data
-  - **Chat model router**: difficulty-based tiering, speculative routing that starts the turn before the classifier answers, on-demand tool loading chosen from production usage, relevance-ranked memory with company-wide sharing and approval
-  - **Regulatory data layer**: mirrored FDA, PubMed, VAERS, WHO and EU trial registries and device-safety records from 10+ countries; eCTD dossier imports with sequence history; fair-queued OCR across tenants
-  - **Reg Affairs Bench**: expert-written benchmark for regulatory AI, graded by a jury of LLM judges from three vendors, published on Hugging Face and arXiv
-  - Earlier: Word add-in AI doc actions (edit, comment, redline; batched apply ~29x faster on large contracts) and real-time docx co-editing (Yjs/Liveblocks)
-- **[Rogo](https://rogo.ai)** - AI analyst for banks and PE firms (Thrive/Sequoia-backed)
-  - Built **Projects**, Rogo's deal-workspace feature (solo, full stack, first month) - shipped to 40k+ enterprise users at bulge-bracket banks
-  - Built real-time collaborative **Notes** from scratch (Yjs/Hocuspocus CRDT, presence, per-user AI edits + a file-edit agent tool, ~15s→5s)
-  - **Sharing/RBAC** across projects, chats, skills; **Felix email agent** (secure ingestion, observability, halved token cost); internal **AI coding agent** (memory, Slack streaming, guardrails)
+- **[Arca](https://www.arca.inc/)** - AI for life-sciences regulatory affairs. Shipped 300+ PRs in October alone
+- **[Rogo](https://rogo.ai)** - AI analyst for banks and PE firms (Thrive/Sequoia-backed). Built Projects (40k+ enterprise users), real-time collaborative Notes, sharing/RBAC, an email agent
 - **[RemNote](http://remnote.com)** - Co-founder, full-stack development, hired 15 people, scaled to millions of users ([funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote))
 - **[BenchFlow](http://benchflow.ai/)** - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others to build HuggingFace for evals
 
-**Notable Projects**
-- [**agentview**](https://github.com/moritzWa/agentview) - All your coding agents in one terminal: Claude Code, Codex, OpenCode, Cursor and more
-- [**Orbit**](https://github.com/moritzWa/orbit) - Local-first personal relationship manager with 15+ auto-import sources, designed for AI coding agents
+<details>
+
+<summary>What I shipped at Arca</summary>
+
+- **Enterprise integrations**: SharePoint, Drive, Outlook, Box and more, with IT-scoped access, Okta/SCIM directory sync, and admin permission controls
+- **Grid**: an agent-powered spreadsheet for literature review and document analysis
+- **Chat**: difficulty-based model routing, on-demand tools, and shared company memory
+- **Workflows**: projects, scheduled automations, live dashboards, and sharing across teams
+- **Regulatory data**: search across public regulatory sources and papers, plus dossier (eCTD) imports
+- **Where users work**: Word add-in (AI redlines, real-time co-editing), Outlook, email agent, ChatGPT plugin
+- **[Reg Affairs Bench](https://huggingface.co/datasets/arca-inc/reg-affairs-bench)**: expert-written benchmark for regulatory AI, graded by an LLM jury
+
+</details>
+
+<details>
+
+<summary>Notable Projects</summary>
+
 - [**voizecode**](https://github.com/moritzWa/voizecode) - ChatGPT voice mode for coding agents - talk to your coding agent on a walk
 - [**Athens**](https://tryathens.com) - Cursor for writing - markdown-based WYSIWYG editor with AI suggestions, collaboration, and Google Docs import
 - [**DeepTable**](https://deeptable.app/) - Clay.com for anything - full-stack implementation ([github repo](https://github.com/moritzWa/deeptable))
 - Technical Writing: [Introduction to vLLM and PagedAttention](https://www.runpod.io/blog/introduction-to-vllm-and-pagedattention), [RAG Research: 2017-2024 (32+ Paper Summaries)](https://scalingknowledge.substack.com/p/rag)
+
+</details>
 
 <details>
   
@@ -32,8 +39,6 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 - [**Focus Shield**](https://chromewebstore.google.com/detail/focus-shield-ai-site-dist/ibmmihgadnkilmknmfmohlclogcifboj) - Site blocker with an AI bouncer: type *why* you want the distracting site, get time-boxed access or a saved reminder, auto-reblocks when it expires ([github repo](https://github.com/moritzWa/focus-shield))
 - [**AI Apartment Finder**](https://github.com/moritzWa/ai-apartment-finder) - Scrapes Craigslist, Facebook Marketplace, and StreetEasy on a cron, scores listings 0-10 with an LLM, and texts you the good ones. Serverless, runs on GitHub Actions
 - [**Cubicle**](https://github.com/moritzWa/cubicle) - A persistent, authenticated computer for your coding agent, over MCP
-- [**OpenCode plugins**](https://github.com/moritzWa?tab=repositories&q=opencode) - read-aloud with word highlighting (Speechify/ElevenLabs), worktree tools, session titles
-- [**AI Interview Index**](https://github.com/moritzWa/ai-interview-index) - Which companies allow AI in coding interviews, which ban it, and which built the interview around it
 - [**Free Whisper Flow**](https://github.com/moritzWa/free-whisper-flow) - Type faster using your voice (Whisper Flow, Aqua Voice, Willow Voice clone)
 
 2025
