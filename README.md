@@ -1,14 +1,15 @@
 Product engineer + founder. I build AI and collaboration products end to end, from discovery to production. [moritzw.com](https://moritzw.com)
 
 **Experience**
-- **[Arca](https://www.arca.inc/)** - AI for life-sciences regulatory affairs. Shipped 300+ PRs in October alone
+- **[Arca](https://www.arca.inc/)** - AI for life-sciences regulatory affairs. Merged 300+ PRs in October alone
 - **[Rogo](https://rogo.ai)** - AI analyst for banks and PE firms (Thrive/Sequoia-backed). Built Projects (40k+ enterprise users), real-time collaborative Notes, sharing/RBAC, an email agent
 - **[RemNote](http://remnote.com)** - Co-founder, full-stack development, hired 15 people, scaled to millions of users ([funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote))
 - **[BenchFlow](http://benchflow.ai/)** - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others to build HuggingFace for evals
+- **[Tutor.com](https://www.tutor.com)** - Full-stack engineering on the platform
 
 <details>
 
-<summary>What I shipped at Arca</summary>
+<summary>What I built at Arca</summary>
 
 - **Enterprise integrations**: SharePoint, Drive, Outlook, Box and more, with IT-scoped access, Okta/SCIM directory sync, and admin permission controls
 - **Grid**: an agent-powered spreadsheet for literature review and document analysis
@@ -22,8 +23,19 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 
 <details>
 
+<summary>What I built at Rogo</summary>
+
+- Built **Projects**, Rogo's deal-workspace feature (solo, full stack, first month) - shipped to 40k+ enterprise users at bulge-bracket banks
+- Built real-time collaborative **Notes** from scratch (Yjs/Hocuspocus CRDT, presence, per-user AI edits + a file-edit agent tool, ~15s→5s)
+- **Sharing/RBAC** across projects, chats, skills; **Felix email agent** (secure ingestion, observability, halved token cost); internal **AI coding agent** (memory, Slack streaming, guardrails)
+
+</details>
+
+<details>
+
 <summary>Notable Projects</summary>
 
+- [**Cronus**](https://cronushq.com) - AI screen time app: automatic time tracking across macOS, Windows and Linux, AI categorization, real-time distraction blocking
 - [**voizecode**](https://github.com/moritzWa/voizecode) - ChatGPT voice mode for coding agents - talk to your coding agent on a walk
 - [**Athens**](https://tryathens.com) - Cursor for writing - markdown-based WYSIWYG editor with AI suggestions, collaboration, and Google Docs import
 - [**DeepTable**](https://deeptable.app/) - Clay.com for anything - full-stack implementation ([github repo](https://github.com/moritzWa/deeptable))
@@ -38,7 +50,12 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 2026
 - [**Focus Shield**](https://chromewebstore.google.com/detail/focus-shield-ai-site-dist/ibmmihgadnkilmknmfmohlclogcifboj) - Site blocker with an AI bouncer: type *why* you want the distracting site, get time-boxed access or a saved reminder, auto-reblocks when it expires ([github repo](https://github.com/moritzWa/focus-shield))
 - [**AI Apartment Finder**](https://github.com/moritzWa/ai-apartment-finder) - Scrapes Craigslist, Facebook Marketplace, and StreetEasy on a cron, scores listings 0-10 with an LLM, and texts you the good ones. Serverless, runs on GitHub Actions
+- [**Agent Bouncer**](https://github.com/moritzWa/agent-bouncer) - A bouncer for your CPU and RAM: a first-come-first-served queue for heavy jobs, built for many parallel coding agents
+- [**agentview**](https://github.com/moritzWa/agentview) - All your coding agents in one terminal: Claude Code, Codex, OpenCode, Cursor and more
 - [**Cubicle**](https://github.com/moritzWa/cubicle) - A persistent, authenticated computer for your coding agent, over MCP
+- [**OpenCode Read Aloud**](https://github.com/moritzWa/opencode-read-aloud) - OpenCode plugin that reads the last answer aloud (Speechify or ElevenLabs), highlighting each word as it is spoken
+- [**Orbit**](https://github.com/moritzWa/orbit) - Local-first personal relationship manager with 15+ auto-import sources, designed for AI coding agents
+- [**AI Interview Index**](https://github.com/moritzWa/ai-interview-index) - Which companies allow AI in coding interviews, which ban it, and which built the interview around it
 - [**Free Whisper Flow**](https://github.com/moritzWa/free-whisper-flow) - Type faster using your voice (Whisper Flow, Aqua Voice, Willow Voice clone)
 
 2025
