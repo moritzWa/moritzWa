@@ -1,17 +1,10 @@
 Product engineer + founder. I build AI and collaboration products end to end, from discovery to production. [moritzw.com](https://moritzw.com)
 
 **Experience**
-- **[Arca](https://www.arca.inc/)** - AI for life-sciences regulatory affairs. Merged 300+ PRs in October alone
-- **[Rogo](https://rogo.ai)** - AI analyst for banks and PE firms (Thrive/Sequoia-backed). Built Projects (40k+ enterprise users), real-time collaborative Notes, sharing/RBAC, an email agent
-  - Built **Projects**, Rogo's deal-workspace feature (solo, full stack, first month) - shipped to 40k+ enterprise users at bulge-bracket banks
-  - Built real-time collaborative **Notes** from scratch (Yjs/Hocuspocus CRDT, presence, per-user AI edits + a file-edit agent tool, ~15s→5s)
-  - **Sharing/RBAC** across projects, chats, skills; **Felix email agent** (secure ingestion, observability, halved token cost); internal **AI coding agent** (memory, Slack streaming, guardrails)
-- **[RemNote](http://remnote.com)** - Co-founder, full-stack development, hired 15 people, scaled to millions of users ([funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote))
-- **[BenchFlow](http://benchflow.ai/)** - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others to build HuggingFace for evals
 
 <details>
 
-<summary>What I built at Arca</summary>
+<summary><b><a href="https://www.arca.inc/">Arca</a></b> - AI for life-sciences regulatory affairs. Merged 300+ PRs in October alone</summary>
 
 - **Enterprise integrations**: SharePoint, Drive, Outlook, Box and more, with IT-scoped access, Okta/SCIM directory sync, and admin permission controls
 - **Grid**: an agent-powered spreadsheet for literature review and document analysis
@@ -24,6 +17,18 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 </details>
 
 <details>
+
+<summary><b><a href="https://rogo.ai">Rogo</a></b> - AI analyst for banks and PE firms (Thrive/Sequoia-backed). Built Projects (40k+ enterprise users), real-time collaborative Notes, sharing/RBAC, an email agent</summary>
+
+- Built **Projects**, Rogo's deal-workspace feature (solo, full stack, first month) - shipped to 40k+ enterprise users at bulge-bracket banks
+- Built real-time collaborative **Notes** from scratch (Yjs/Hocuspocus CRDT, presence, per-user AI edits + a file-edit agent tool, ~15s→5s)
+- **Sharing/RBAC** across projects, chats, skills; **Felix email agent** (secure ingestion, observability, halved token cost); internal **AI coding agent** (memory, Slack streaming, guardrails)
+
+</details>
+
+- **[RemNote](http://remnote.com)** - Co-founder, full-stack development, hired 15 people, scaled to millions of users ([funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote))
+- **[BenchFlow](http://benchflow.ai/)** - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others to build HuggingFace for evals
+
 
 <summary>Notable Projects</summary>
 
