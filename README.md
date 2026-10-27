@@ -26,8 +26,9 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 
 </details>
 
-- **[RemNote](http://remnote.com)** - Co-founder, full-stack development, hired 15 people, scaled to millions of users ([funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote))
-- **[BenchFlow](http://benchflow.ai/)** - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others to build HuggingFace for evals
+**[RemNote](http://remnote.com)** - Co-founder, full-stack development, hired 15 people, scaled to millions of users ([funding announcement](https://www.generalcatalyst.com/stories/why-general-catalyst-invested-in-remnote))
+
+**[BenchFlow](http://benchflow.ai/)** - Raised $850k from Jeff Dean (Chief Scientist @ Google) and others to build HuggingFace for evals
 
 <details>
 
