@@ -39,7 +39,7 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 - [**voizecode**](https://github.com/moritzWa/voizecode) - ChatGPT voice mode for coding agents - talk to your coding agent on a walk
 - [**Athens**](https://tryathens.com) - Cursor for writing - markdown-based WYSIWYG editor with AI suggestions, collaboration, and Google Docs import
 - [**DeepTable**](https://deeptable.app/) - Clay.com for anything - full-stack implementation ([github repo](https://github.com/moritzWa/deeptable))
-- Technical Writing: [Introduction to vLLM and PagedAttention](https://www.runpod.io/blog/introduction-to-vllm-and-pagedattention), [RAG Research: 2017-2024 (32+ Paper Summaries)](https://scalingknowledge.substack.com/p/rag)
+- Technical Writing: [Full-Duplex Models and Systems: Key Ideas and Papers](https://scalingknowledge.substack.com/p/full-duplex-models-and-systems-key), [Introduction to vLLM and PagedAttention](https://www.runpod.io/blog/introduction-to-vllm-and-pagedattention), [RAG Research: 2017-2024 (32+ Paper Summaries)](https://scalingknowledge.substack.com/p/rag)
 
 </details>
 
