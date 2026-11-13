@@ -53,6 +53,7 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 - [**Cubicle**](https://github.com/moritzWa/cubicle) - A persistent, authenticated computer for your coding agent, over MCP
 - [**Understand**](https://understandtutor.com) - A voice tutor you can interrupt: explains any topic, reads articles aloud, and remembers what you actually understood
 - [**Orbit**](https://github.com/moritzWa/orbit) - Local-first personal relationship manager with 15+ auto-import sources, designed for AI coding agents
+- [**Athens Light**](https://athens-light.app) - A 3 MB markdown editor for Mac: open a .md file, edit it as rich text. Rust (Tauri) and Tiptap, open source
 - [**OpenCode Read Aloud**](https://github.com/moritzWa/opencode-read-aloud) - OpenCode plugin that reads the last answer aloud (Speechify or ElevenLabs), highlighting each word as it is spoken
 - [**AI Interview Index**](https://github.com/moritzWa/ai-interview-index) - Which companies allow AI in coding interviews, which ban it, and which built the interview around it
 
