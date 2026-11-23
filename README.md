@@ -45,6 +45,7 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 <summary>Other Projects</summary>
   
 2026
+- [**Open Slack Links in Browser**](https://github.com/moritzWa/open-slack-links-in-browser) - Opens Slack archive links in the browser instead of the desktop app
 - [**voizecode**](https://github.com/moritzWa/voizecode) - ChatGPT voice mode for coding agents - talk to your coding agent on a walk
 - [**Athens**](https://tryathens.com) - Cursor for writing - markdown-based WYSIWYG editor with AI suggestions, collaboration, and Google Docs import
 - [**Visual Wayback**](https://visualwayback.com/) - A visual Wayback Machine timeline with changes-only browsing ([github repo](https://github.com/moritzWa/visual-wayback))
