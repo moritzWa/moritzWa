@@ -34,11 +34,7 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 
 <details>
 
-<summary>Notable Projects</summary>
-
-- [**voizecode**](https://github.com/moritzWa/voizecode) - ChatGPT voice mode for coding agents - talk to your coding agent on a walk
-- [**Athens**](https://tryathens.com) - Cursor for writing - markdown-based WYSIWYG editor with AI suggestions, collaboration, and Google Docs import
-- [**DeepTable**](https://deeptable.app/) - Clay.com for anything - full-stack implementation ([github repo](https://github.com/moritzWa/deeptable))
+<summary>Technical Writing</summary>
 - Technical Writing: [Full-Duplex Models and Systems: Key Ideas and Papers](https://scalingknowledge.substack.com/p/full-duplex-models-and-systems-key), [Introduction to vLLM and PagedAttention](https://www.runpod.io/blog/introduction-to-vllm-and-pagedattention), [RAG Research: 2017-2024 (32+ Paper Summaries)](https://scalingknowledge.substack.com/p/rag)
 
 </details>
@@ -48,8 +44,10 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 <summary>Other Projects</summary>
   
 2026
+- [**voizecode**](https://github.com/moritzWa/voizecode) - ChatGPT voice mode for coding agents - talk to your coding agent on a walk
+- [**Athens**](https://tryathens.com) - Cursor for writing - markdown-based WYSIWYG editor with AI suggestions, collaboration, and Google Docs import
 - [**Visual Wayback**](https://visualwayback.com/) - A visual Wayback Machine timeline with changes-only browsing ([github repo](https://github.com/moritzWa/visual-wayback))
-- [**Clipglass**](https://github.com/moritzWa/clip) - Native macOS clipboard manager in Rust: searchable history, screenshot OCR, image previews, and batch paste (private repo)
+- [**Clipglass**](https://github.com/moritzWa/clip) - Native macOS clipboard manager in Rust: searchable history, screenshot OCR, image previews, and batch paste
 - [**Agent Bouncer**](https://github.com/moritzWa/agent-bouncer) - A bouncer for your CPU and RAM: a first-come-first-served queue for heavy jobs, built for many parallel coding agents
 - [**BetterAgentView**](https://betteragentview.com) - All your coding agents in one terminal: Claude Code, Codex, OpenCode, Cursor and more ([github repo](https://github.com/moritzWa/BetterAgentView))
 - [**Cubicle**](https://github.com/moritzWa/cubicle) - A persistent, authenticated computer for your coding agent, over MCP
@@ -60,6 +58,7 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 - [**AI Interview Index**](https://github.com/moritzWa/ai-interview-index) - Which companies allow AI in coding interviews, which ban it, and which built the interview around it
 
 2025
+- [**DeepTable**](https://deeptable.app/) - Clay.com for anything - full-stack implementation ([github repo](https://github.com/moritzWa/deeptable))
 - [**Free Whisper Flow**](https://github.com/moritzWa/free-whisper-flow) - Type faster using your voice (Whisper Flow, Aqua Voice, Willow Voice clone)
 - [**Focus Shield**](https://chromewebstore.google.com/detail/focus-shield-ai-site-dist/ibmmihgadnkilmknmfmohlclogcifboj) - Site blocker with an AI bouncer: type *why* you want the distracting site, get time-boxed access or a saved reminder, auto-reblocks when it expires ([github repo](https://github.com/moritzWa/focus-shield))
 - [**RapidAnswer**](https://github.com/moritzWa/RapidAnswer) - ChatGPT voice mode on steroids, powered by Groq, Exa, and DeepGram
