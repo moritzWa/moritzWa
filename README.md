@@ -48,6 +48,7 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 <summary>Other Projects</summary>
   
 2026
+- [**Visual Wayback**](https://visualwayback.com/) - A visual Wayback Machine timeline with changes-only browsing ([github repo](https://github.com/moritzWa/visual-wayback))
 - [**Clipglass**](https://github.com/moritzWa/clip) - Native macOS clipboard manager in Rust: searchable history, screenshot OCR, image previews, and batch paste (private repo)
 - [**Agent Bouncer**](https://github.com/moritzWa/agent-bouncer) - A bouncer for your CPU and RAM: a first-come-first-served queue for heavy jobs, built for many parallel coding agents
 - [**BetterAgentView**](https://betteragentview.com) - All your coding agents in one terminal: Claude Code, Codex, OpenCode, Cursor and more ([github repo](https://github.com/moritzWa/BetterAgentView))
