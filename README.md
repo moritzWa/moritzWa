@@ -48,12 +48,13 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 <summary>Other Projects</summary>
   
 2026
+- [**Clipglass**](https://github.com/moritzWa/clip) - Native macOS clipboard manager in Rust: searchable history, screenshot OCR, image previews, and batch paste (private repo)
 - [**Agent Bouncer**](https://github.com/moritzWa/agent-bouncer) - A bouncer for your CPU and RAM: a first-come-first-served queue for heavy jobs, built for many parallel coding agents
-- [**agentview**](https://github.com/moritzWa/agentview) - All your coding agents in one terminal: Claude Code, Codex, OpenCode, Cursor and more
+- [**BetterAgentView**](https://betteragentview.com) - All your coding agents in one terminal: Claude Code, Codex, OpenCode, Cursor and more ([github repo](https://github.com/moritzWa/BetterAgentView))
 - [**Cubicle**](https://github.com/moritzWa/cubicle) - A persistent, authenticated computer for your coding agent, over MCP
 - [**Understand**](https://understandtutor.com) - A voice tutor you can interrupt: explains any topic, reads articles aloud, and remembers what you actually understood
 - [**Orbit**](https://github.com/moritzWa/orbit) - Local-first personal relationship manager with 15+ auto-import sources, designed for AI coding agents
-- [**Athens Light**](https://athens-light.app) - A 3 MB markdown editor for Mac: open a .md file, edit it as rich text. Rust (Tauri) and Tiptap, open source
+- [**Athens Light**](https://athens-light.app) - A 3 MB markdown editor for Mac: open a .md file, edit it as rich text. Rust (Tauri) and Tiptap, open source ([github repo](https://github.com/moritzWa/athens-light))
 - [**OpenCode Read Aloud**](https://github.com/moritzWa/opencode-read-aloud) - OpenCode plugin that reads the last answer aloud (Speechify or ElevenLabs), highlighting each word as it is spoken
 - [**AI Interview Index**](https://github.com/moritzWa/ai-interview-index) - Which companies allow AI in coding interviews, which ban it, and which built the interview around it
 
