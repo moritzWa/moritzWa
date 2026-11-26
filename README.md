@@ -4,7 +4,7 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 
 <details>
 
-<summary><b><a href="https://www.arca.inc/">Arca</a></b> - AI for life-sciences regulatory affairs. Merged 300+ PRs in October alone</summary>
+<summary><b>Stealth startup</b> - AI for life-sciences regulatory affairs. Merged 300+ PRs in October alone</summary>
 
 - **Enterprise integrations**: SharePoint, Drive, Outlook, Box and more, with IT-scoped access, Okta/SCIM directory sync, and admin permission controls
 - **Grid**: an agent-powered spreadsheet for literature review and document analysis
@@ -12,7 +12,7 @@ Product engineer + founder. I build AI and collaboration products end to end, fr
 - **Workflows**: projects, scheduled automations, live dashboards, and sharing across teams
 - **Regulatory data**: search across public regulatory sources and papers, plus dossier (eCTD) imports
 - **Where users work**: Word add-in (AI redlines, real-time co-editing), Outlook, email agent, ChatGPT plugin
-- **[Reg Affairs Bench](https://huggingface.co/datasets/arca-inc/reg-affairs-bench)**: expert-written benchmark for regulatory AI, graded by an LLM jury
+- **Regulatory affairs benchmark**: expert-written benchmark for regulatory AI, graded by an LLM jury
 
 </details>
 
